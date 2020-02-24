@@ -12,10 +12,11 @@ The data:
 * data/uplift_train.csv — train set of clients with conversion information
 * data/uplift_test.csv — test set to model the uplift
 
-Baseline solution: uplift_solution.py
-Final solution: create_dataset.py, pipeline.ipynb
+Solutions:
+* Baseline solution: `uplift_solution.py`
+* Final solution: `create_dataset.py`, `pipeline.ipynb`
 
-The libraries needed to run the code are listed in requirements.txt
+The libraries needed to run the code are listed in `requirements.txt`.
 
 Reference materials:
 * https://github.com/maks-sh/scikit-uplift
@@ -24,5 +25,5 @@ Reference materials:
 * https://github.com/rekcahd/retailhero_uplift
 
 Tutorials on uplift-modeling (in Russian):
-* Туториал по Uplift моделированию. Часть 1
-* Туториал по Uplift моделированию. Часть 2
+* [Туториал по Uplift моделированию. Часть 1](https://datafest.us18.list-manage.com/track/click?u=acc56a45f4f4d03aa67f9cd69&id=105e33fc89&e=e9d30d7bbb)
+* [Туториал по Uplift моделированию. Часть 2](https://datafest.us18.list-manage.com/track/click?u=acc56a45f4f4d03aa67f9cd69&id=dd31184da8&e=e9d30d7bbb)
