@@ -22,3 +22,7 @@ Reference materials:
 * https://github.com/olegitor/X5.Uplift.public
 * https://github.com/nersirion/nersirion-RetailHero.ai-uplift
 * https://github.com/rekcahd/retailhero_uplift
+
+Tutorials on uplift-modeling (in Russian):
+* Туториал по Uplift моделированию. Часть 1
+* Туториал по Uplift моделированию. Часть 2
