@@ -3,7 +3,10 @@ RetailHero Uplift Modeling
 
 Uplift-modelling task. Rank the customers in descending order of communication efficiency.
 
-The competition page: https://retailhero.ai/c/uplift_modeling/
+The competition page: 
+* https://retailhero.ai/c/uplift_modeling/
+* https://ods.ai/competitions/x5-retailhero-uplift-modeling/data
+
 
 **The data**:
 * data/clients.csv — clients information
